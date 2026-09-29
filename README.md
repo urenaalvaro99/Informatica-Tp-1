@@ -2,7 +2,7 @@
 Trabajo Practico N-1
 # Proyecto Integrador: Portal web interactivo para el análisis de siniestralidad laboral (2020-2025) e impacto financiero en alícuotas de ART en Misiones. 
 
-**Estudiante:** Urena, Alvaro.
+**Estudiante:** Urena Alvaro.
 **Carrera:** Productor y Asesor de Seguros.
 **Materia / Proyecto:** Informática y Desarrollo de ia.
 **Sitio Web Desplegado:** [https://seguridadenmisiones.netlify.app)]
