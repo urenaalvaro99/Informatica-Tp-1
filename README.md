@@ -5,9 +5,8 @@ Trabajo Practico N-1
 **Estudiante:** Urena Alvaro.
 **Carrera:** Productor y Asesor de Seguros.
 **Materia / Proyecto:** Informática y Desarrollo de ia.
-**Sitio Web Desplegado:** [https://seguridadenmisiones.netlify.app)]
+**Sitio Web Desplegado:** [[SITIO](https://seguridadenmisiones.netlify.app)]
 **Archivo Fuente en Google Drive:** [https://drive.google.com/drive/folders/15yvPE2OjpPkmffXCYfQFGspr1pfm8Few?usp=drive_link]
-
 ---
 ##📊 Portal Interactivo de Siniestralidad Laboral y Costos ART en Misiones (2020–2025)
 
